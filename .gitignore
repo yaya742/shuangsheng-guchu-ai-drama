@@ -1,0 +1,25 @@
+# Video/audio outputs are intentionally excluded
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.avi
+*.wav
+*.mp3
+*.m4a
+*.flac
+
+# Models, caches and temporary files
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.onnx
+*.gguf
+*.aria2
+*.log
+*.zip
+*.pyc
+__pycache__/
+.cache/
+.DS_Store
